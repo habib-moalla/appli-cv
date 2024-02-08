@@ -3,8 +3,8 @@ import "./App.css";
 
 function App() {
 const user = {
-name: "Habib",
-jobTitle: "Web Developer",
+name: "Habib Moalla",
+jobTitle: "Rajel",
 about:
 "Passionate about web development and creating awesome user experiences.",
 email: "alaa.odc@example.com",

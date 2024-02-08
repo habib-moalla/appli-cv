@@ -1,11 +1,12 @@
 .App-header {
-  background-color: #ed752a;
+  background-color: #952aed;
   padding: 20px;
   color: white;
   text-align: left;
   }
   
   .App-content {
+  background-color: #ece91e;
   padding: 20px;
   text-align: left;
   }
@@ -13,5 +14,5 @@
   img {
   border-radius: 50%;
   margin-bottom: 5px;
-  max-height: 80px;
+  max-height: 110px;
   }
